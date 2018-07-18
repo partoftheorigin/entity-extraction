@@ -5,3 +5,4 @@ lib/
 man/
 share/
 .DS_Store
+pip-selfcheck.json
