@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
+bin/
+include/
+lib/
+man/
+share/
 .DS_Store
