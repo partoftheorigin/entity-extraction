@@ -4,5 +4,6 @@ include/
 lib/
 man/
 share/
+.Python
 .DS_Store
 pip-selfcheck.json
